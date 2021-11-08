@@ -16,3 +16,6 @@ This website is meant to allow users to keep track of tasks they need to get don
 
 [Link to the deployed website](https://alex-soucy.github.io/wd-sched/)
 
+[Link to the GitHub repository](https://github.com/Alex-Soucy/wd-sched)
+
+![image of deployed webpage](./assets/images/wd-sched-ss.png)
